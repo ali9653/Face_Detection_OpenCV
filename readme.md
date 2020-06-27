@@ -1,4 +1,4 @@
-## Face Detection (Haar Caascades) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)]
+## Face Detection (Haar Caascades)
 This code helps you to understand and detect faces using webcam.
 
 ### Code Requirements
