@@ -1,4 +1,4 @@
-## Face Detection (Haar Caascades) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/FaceDetection/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+## Face Detection (Haar Caascades) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)]
 This code helps you to understand and detect faces using webcam.
 
 ### Code Requirements
